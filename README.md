@@ -5,3 +5,4 @@ test
 ---
 
 HELLO
+<TEST>
