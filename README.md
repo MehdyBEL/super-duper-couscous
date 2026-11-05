@@ -9,3 +9,6 @@ HELLO \n
 #abc
 
 <TEST>
+~test~
+\\comment
+//comment
