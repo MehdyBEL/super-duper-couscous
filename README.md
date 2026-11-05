@@ -5,6 +5,7 @@ test
 ---
 
 HELLO \n
-WORLD
+"WORLD"
+#abc
 
 <TEST>
