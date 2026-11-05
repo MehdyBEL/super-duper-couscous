@@ -4,7 +4,7 @@ test
  test TEST
 ---
 
-HELLO
+HELLO \n
 WORLD
 
 <TEST>
